@@ -91,4 +91,6 @@ make
 
 I originally wrote this in 1991. The original version used a joystick in port 2 to play, but I recently updated the controls to use the cursor keys and spacebar to make it easier to play in an emulator.
 
-The game uses a [custom character set](./mindmaster.chr) that I created, as well.
+The game uses a [custom character set](./mindmaster.chr) that I created, as well. (See below for example.)
+
+![mindmaster charset](./images/charset.png)
